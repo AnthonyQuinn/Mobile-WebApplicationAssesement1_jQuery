@@ -11,29 +11,50 @@ and open the template in the editor.
         <title>Mobile & Web Application 1 jQuery</title>
         <link rel="stylesheet" href="themes/Assingement1_jQuery.min.css" />
         <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
     </head>
     <body>
-        <!--div data-role="page" id="pageone">
+        <div data-role="page" id="pageone">
             <div data-role="header"><h1>This is page 1</h1></div>
             <div data-role="content"><p>This is page One content </p><br>
-                <a href="#pagetwo">Go to Page Two</a>
-            </div>
-        </div-->
-        <!--div data-role="page" id="pagetwo">
-            <div data-role="header"><h1>This is page 2</h1></div>
-            <div data-role="content"><p>This is Page Two content </p><br>
-                                <a href="#pageone">Go to Page One</a>
+                <a href="#pagetwo">Go to Page Two</a><br>
+                <a href="#pagethree">Go to Page Three</a>
+                <div data-role='footer'><h4>Footer page one</h4></div>
+
 
             </div>
-        </div-->
-        <div data-role="content">
+        </div>
+        <div data-role="page" id="pagetwo">
+            <div data-role="header"><h1>This is page 2</h1></div>
+            <div data-role="content"><p>This is Page Two content </p><br>
+                <img src="Images/twitter_logo.PNG" alt=""/>
+                <a href="#pageone">Go to Page One</a><br>
+                <a href="#pagethree">Go to Page Three</a>
+                <div data-role='footer'><h4>Footer page two</h4></div>
+
+            </div>
+        </div>
+        <div data-role="page" id="pagethree">
+            <div data-role="header"><h1>This is page three</h1></div>
+            <div data-role="content"><p>This is page Three content </p><br>
+                <a href="#pageone">Go to Page One</a><br>
+                <a href="#pagetwo">Go to Page Two</a>
+                <div data-role='footer'><h4>Footer page three</h4></div>
+
+
+            </div>
+        </div>
+        <!--div data-role="content">
             <div class="content-primary">
                 <div data-demo-html="true"> 
                     <div data-filter="true">
                         <div data-filter-reveal="true">
+                            <div data-transition='slideup'>
                             <ul data-role="listview">
                                 <li><a href="#luke">Luke</a></li>
                                 <li><a href="#lea">Lea</a></li>
@@ -41,11 +62,34 @@ and open the template in the editor.
                                 <li><a href="#chiewie">Chiewie</a></li>
 
                             </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div-->
+    </div>
+    <!--div><div data-role="page" id="luke">I'm here to rescue you</div></div-->
 
+    <!--div>
+        <div data-role="page" id="luke">
+            <div data-role="header"><h1>This is Lukes page</h1></div>
+            <div data-role="content"><p>I'm here to rescue you </p><br>
+                <a href="#lea">Go to Lea page</a>
+            </div>
+                <div data-role="page" id="lea">
+                    <div data-role="header"><h1>This is Lukes page</h1></div>
+                    <div data-role="content"><p>Aren't you a little short for a storm trooper </p><br>
+                        <a href="#luke">Go to Lukes page</a></div>
+                </div>
         </div>
-    </body>
+    </div-->
+    <!--div data-role="page" id="han">Never tell me the odds</div>
+    <div data-role="page" id="chiewie">Yahhh rugga mahh </div>
+
+<
+
+</div>
+</div>
+
+</body>
 </html>

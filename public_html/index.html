@@ -5,7 +5,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    <head>
+    <!--head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Mobile & Web Application 1 jQuery</title>
@@ -17,7 +17,13 @@ and open the template in the editor.
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
         <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    </head>
+    </head-->
+    <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
     <body>
         <!--div>
         <div data-role="page" id="pageone">
@@ -51,11 +57,16 @@ and open the template in the editor.
             </div>
         </div>
         </div-->
-        <div data-role="content">
-            <div class="content-primary">
-                <div data-demo-html="true"> 
+        <!--div data-role="content"-->
+        <div data-role="page" id="pageone">
+            <!--div class="content-primary"-->
+            <div data-role="main" class="ui-content">
+                <!--div data-demo-html="true"--> 
+                    <form class="ui-filterable">
+                        <input id="myFilter" data-type="search">
+                    </form>
                     <!--div data-filter="true"-->
-                    <ul data-role="listview" data-filter="true" >
+                    <ul data-role="listview"  data-filter="true" data-input="#myFilter" >
                         <li><a href="#luke">Luke</a></li>
                         <li><a href="#lea">Lea</a></li>
                         <li><a href="#han">Han</a></li>
@@ -90,11 +101,11 @@ and open the template in the editor.
                 </div-->
                 <!--div data-role="page" id="han">Never tell me the odds</div>
                 <div data-role="page" id="chiewie">Yahhh rugga mahh </div-->
-            
-            
-            
+
+
+
             </div>
-            </div>
-            
-            </body>
-            </html>
+        </div>
+
+    </body>
+</html>

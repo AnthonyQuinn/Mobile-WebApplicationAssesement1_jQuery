@@ -5,107 +5,95 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    <!--head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Mobile & Web Application 1 jQuery</title>
-        <link rel="stylesheet" href="themes/Assingement1_jQuery.min.css" />
-        <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
-        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
-        <script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-        <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
-        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
-        <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-        <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-    </head-->
+
     <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-</head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+        <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
+        <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+        <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.css" rel="stylesheet" type="text/css"/>
+        <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.min.css" rel="stylesheet" type="text/css"/>
+    </head>
+
     <body>
-        <!--div>
-        <div data-role="page" id="pageone">
-            <div data-role="header"><h1>This is page 1</h1></div>
-            <div data-role="content"><p>This is page One content </p><br>
-                <a href="#pagetwo" data-transition="slideup">Go to Page Two</a><br>
-                <a href="#pagethree" data-transition="slideup">Go to Page Three</a>
-                <div data-role='footer'><h4>Footer page one</h4></div>
 
-
-            </div>
-        </div>
-        <div data-role="page" id="pagetwo">
-            <div data-role="header"><h1>This is page 2</h1></div>
-            <div data-role="content"><p>This is Page Two content </p><br>
-                <img src="Images/twitter_logo.PNG" alt=""/>
-                <a href="#pageone" data-transition="slideup">Go to Page One</a><br>
-                <a href="#pagethree" data-transition="slideup">Go to Page Three</a>
-                <div data-role='footer'><h4>Footer page two</h4></div>
-
-            </div>
-        </div>
-        <div data-role="page" id="pagethree">
-            <div data-role="header"><h1>This is page three</h1></div>
-            <div data-role="content"><p>This is page Three content </p><br>
-                <a href="#pageone" data-transition="slideup">Go to Page One</a><br>
-                <a href="#pagetwo" data-transition="slideup">Go to Page Two</a>
-                <div data-role='footer'><h4>Footer page three</h4></div>
-
-
-            </div>
-        </div>
-        </div-->
         <!--div data-role="content"-->
-        <div data-role="page" id="pageone">
-            <!--div class="content-primary"-->
-            <div data-role="main" class="ui-content">
-                <!--div data-demo-html="true"--> 
-                    <form class="ui-filterable">
-                        <input id="myFilter" data-type="search">
-                    </form>
-                    <!--div data-filter="true"-->
-                    <ul data-role="listview"  data-filter="true" data-input="#myFilter" >
-                        <li><a href="#luke">Luke</a></li>
-                        <li><a href="#lea">Lea</a></li>
-                        <li><a href="#han">Han</a></li>
-                        <li><a href="#chiewie">Chiewie</a></li>
+        <div data-role="page" id="home">
+            <div data-role="header"><h1>Some  time ago in a galaxy thats not very near </h1></div>
+            <div data-role="content">
+                <div class="content-primary">
+                    <div data-demo-html="true"> 
 
-                    </ul>
-                    <!--div data-role="page" id="luke">
-                        <div data-role="header"><h1>This is Lukes page</h1></div>
-                        <div data-role="content"><p>I'm here to rescue you </p><br>
-                            <a href="#lea">Go to Lea page</a>
-                        </div>
-                        <div data-role="page" id="lea">
-                            <div data-role="header"><h1>This is Leas page</h1></div>
-                            <div data-role="content"><p>Aren't you a little short for a storm trooper </p><br>
-                                <a href="#luke">Go to Lukes page</a>
-                            </div>
-                        </div>
-                    </div-->
-                </div>
-                <!--div>
-                    <div data-role="page" id="luke">
-                        <div data-role="header"><h1>This is Lukes page</h1></div>
-                        <div data-role="content"><p>I'm here to rescue you </p><br>
-                            <a href="#lea">Go to Lea page</a>
-                        </div>
-                            <div data-role="page" id="lea">
-                                <div data-role="header"><h1>This is Leas page</h1></div>
-                                <div data-role="content"><p>Aren't you a little short for a storm trooper </p><br>
-                                    <a href="#luke">Go to Lukes page</a></div>
-                            </div>
+                        <ul data-role="listview"  data-filter="true" data-filter-reveal="true"  >
+
+
+                            <li><a href="#luke" data-transition="slideup">Luke</a></li>
+                            <li><a href="#leia" data-transition="flow">Lea</a></li>
+                            <li><a href="#han" data-transition="pop">Han</a></li>
+                            <li><a href="#chewie" data-transition="pop">Chiewie</a></li>
+
+
+
+                        </ul>
+
                     </div>
-                </div-->
-                <!--div data-role="page" id="han">Never tell me the odds</div>
-                <div data-role="page" id="chiewie">Yahhh rugga mahh </div-->
 
 
+                    <div data-role="footer">
+                        <h1>Star Wars</h1>
+                    </div>
 
+                </div>
             </div>
         </div>
+
+
+
+        <!--End of Home page-->
+        <div>
+            <div data-role="page" id="luke">
+                <div data-role="header"><h1>This is Lukes page</h1></div>
+                <div data-role="content"><p>I'm here to rescue you </p><br>
+                    <a href="#home">Home</a>
+                </div>
+                <div data-role="footer">
+                    <h1>Luke page </h1>
+                </div>
+            </div>
+                        </div>
+
+            <div data-role="page" id="leia">
+                <div data-role="header"><h1>This is Leia's page</h1></div>
+                <div data-role="content"><p>Aren't you a little short for a stormtrooper </p><br>
+                    <a href="#home">Home</a>
+                </div>
+                <div data-role="footer">
+                    <h1>Leia's page </h1>
+                </div>
+            </div>
+
+            <div data-role="page" id="han">
+                <div data-role="header"><h1>This is Han's page</h1></div>
+                <div data-role="content"><p>Never tell me the odds</p><br>
+                    <a href="#home">Home</a>
+                </div>
+                <div data-role="footer">
+                    <h1>Han's page </h1>
+                </div>
+            </div>
+            <div data-role="page" id="chewie">
+                <div data-role="header"><h1>This is Chewies page</h1></div>
+                <div data-role="content"><p>Yahh ruggah mah mah</p><br>
+                    <a href="#home">Home</a><br><a href="#han">Hans page </a>
+
+                </div>
+                <div data-role="footer">
+                    <h1>Chewie's page </h1>
+                </div>
+            </div>
+
 
     </body>
 </html>

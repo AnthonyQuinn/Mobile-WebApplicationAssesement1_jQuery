@@ -15,34 +15,26 @@ and open the template in the editor.
         <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
         <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.css" rel="stylesheet" type="text/css"/>
         <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.min.css" rel="stylesheet" type="text/css"/>
+        <script src="JS/loadXMLDoc.js" type="text/javascript"></script>
     </head>
 
-    <body>
-<!-- Start of the home page  -->
+    <body onload="loadXMLDoc()">
+        <!-- Start of the home page  -->
         <!--div data-role="content"-->
         <div  id="home">
-            <div data-role="header"><h1>Some  time ago in a galaxy thats not very near </h1></div>
+            <div data-role="header"><h1>This is Workshop 3 </h1></div>
             <div data-role="content">
                 <div class="content-primary">
                     <div data-demo-html="true"> 
 
-                        <!--ul data-role="listview"  data-filter="true"   -->
-                            <ul id="myList">
-
-                            <li><a href="#luke" data-transition="slideup">Luke</a></li>
-                            <li><a href="#leia" data-transition="flow">Lea</a></li>
-                            <li><a href="#han" data-transition="pop">Han</a></li>
-                            <li><a href="#chewie" data-transition="pop">Chiewie</a></li>
-
-
+                        <ul data-role="listview"  data-filter="true" id="myList"  >
 
                         </ul>
-
                     </div>
 
 
                     <div data-role="footer">
-                        <h1>Star Wars</h1>
+                        <h1>This is the Workshop 3 footer</h1>
                     </div>
 
                 </div>
@@ -52,47 +44,7 @@ and open the template in the editor.
 
 
         <!--End of Home page-->
-        <div>
-            <div  id="luke">
-                <div data-role="header"><h1>This is Lukes page</h1></div>
-                <div data-role="content"><p>I'm here to rescue you </p><br>
-                    <a href="#home">Home</a>
-                </div>
-                <div data-role="footer">
-                    <h1>Luke page </h1>
-                </div>
-            </div>
-                        </div>
 
-            <div  id="leia">
-                <div data-role="header"><h1>This is Leia's page</h1></div>
-                <div data-role="content"><p>Aren't you a little short for a stormtrooper </p><br>
-                    <a href="#home">Home</a>
-                </div>
-                <div data-role="footer">
-                    <h1>Leia's page </h1>
-                </div>
-            </div>
-
-            <div  id="han">
-                <div data-role="header"><h1>This is Han's page</h1></div>
-                <div data-role="content"><p>Never tell me the odds</p><br>
-                    <a href="#home">Home</a>
-                </div>
-                <div data-role="footer">
-                    <h1>Han's page </h1>
-                </div>
-            </div>
-            <div  id="chewie">
-                <div data-role="header"><h1>This is Chewies page</h1></div>
-                <div data-role="content"><p>Yahh ruggah mah mah</p><br>
-                    <a href="#home">Home</a><br><a href="#han">Hans page </a>
-
-                </div>
-                <div data-role="footer">
-                    <h1>Chewie's page </h1>
-                </div>
-            </div>
 
 
     </body>

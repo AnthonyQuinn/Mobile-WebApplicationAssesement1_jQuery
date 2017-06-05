@@ -20,14 +20,14 @@ and open the template in the editor.
     <body>
 <!-- Start of the home page  -->
         <!--div data-role="content"-->
-        <div data-role="page" id="home">
+        <div  id="home">
             <div data-role="header"><h1>Some  time ago in a galaxy thats not very near </h1></div>
             <div data-role="content">
                 <div class="content-primary">
                     <div data-demo-html="true"> 
 
-                        <ul data-role="listview"  data-filter="true" data-filter-reveal="true"  >
-
+                        <!--ul data-role="listview"  data-filter="true"   -->
+                            <ul id="myList">
 
                             <li><a href="#luke" data-transition="slideup">Luke</a></li>
                             <li><a href="#leia" data-transition="flow">Lea</a></li>
@@ -53,7 +53,7 @@ and open the template in the editor.
 
         <!--End of Home page-->
         <div>
-            <div data-role="page" id="luke">
+            <div  id="luke">
                 <div data-role="header"><h1>This is Lukes page</h1></div>
                 <div data-role="content"><p>I'm here to rescue you </p><br>
                     <a href="#home">Home</a>
@@ -64,7 +64,7 @@ and open the template in the editor.
             </div>
                         </div>
 
-            <div data-role="page" id="leia">
+            <div  id="leia">
                 <div data-role="header"><h1>This is Leia's page</h1></div>
                 <div data-role="content"><p>Aren't you a little short for a stormtrooper </p><br>
                     <a href="#home">Home</a>
@@ -74,7 +74,7 @@ and open the template in the editor.
                 </div>
             </div>
 
-            <div data-role="page" id="han">
+            <div  id="han">
                 <div data-role="header"><h1>This is Han's page</h1></div>
                 <div data-role="content"><p>Never tell me the odds</p><br>
                     <a href="#home">Home</a>
@@ -83,7 +83,7 @@ and open the template in the editor.
                     <h1>Han's page </h1>
                 </div>
             </div>
-            <div data-role="page" id="chewie">
+            <div  id="chewie">
                 <div data-role="header"><h1>This is Chewies page</h1></div>
                 <div data-role="content"><p>Yahh ruggah mah mah</p><br>
                     <a href="#home">Home</a><br><a href="#han">Hans page </a>

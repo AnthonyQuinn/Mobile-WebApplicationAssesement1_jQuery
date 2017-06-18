@@ -1,0 +1,448 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2017 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Maudie",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In ‘Maudie,’ a Painter Spins Beauty From Despair",
+      "summary_short": "Sally Hawkins and Ethan Hawke open up two closed people, unleashing torrents of feeling, in this film inspired by the life of a self-taught artist.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 20:58:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/maudie-review.html",
+        "suggested_link_text": "Read the New York Times Review of Maudie"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16MAUDIE/16MAUDIE-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Boom",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "Review: From Vittorio De Sica, the Comic Anxieties of la Dolce Vita",
+      "summary_short": "“Il Boom,” starring Alberto Sordi as a building contractor with a lavish lifestyle, is a 1963 comedy that is only now getting an American release.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 20:40:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/il-boom-review-vittorio-de-sica.html",
+        "suggested_link_text": "Read the New York Times Review of The Boom"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/07/movies/video-il-boom-us-trailer-1/video-il-boom-us-trailer-1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Score: A Film Music Documentary",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "ANDY WEBSTER",
+      "headline": "Review: ‘Score: A Film Music Documentary’ Gives Composers Their Due",
+      "summary_short": "The likes of Max Steiner, Ennio Morricone and Bernard Herrmann are hailed in Matt Schrader’s film, as well as John Williams, Hans Zimmer and others.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 20:14:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/score-review.html",
+        "suggested_link_text": "Read the New York Times Review of Score: A Film Music Documentary"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/05/04/movies/video-score-a-film-music-documentary-trailer-2/video-score-a-film-music-documentary-trailer-2-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Harmonium",
+      "mpaa_rating": "Not Rated",
+      "critics_pick": 1,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "Review: In ‘Harmonium,’ a Family Lets the Wrong One In",
+      "summary_short": "A mysterious man becomes a disruptive presence for a married couple and their daughter in Koji Fukada’s well-acted family drama.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-15 20:12:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/harmonium-review.html",
+        "suggested_link_text": "Read the New York Times Review of Harmonium"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16HARMONIUM/16HARMONIUM-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "All Eyez on Me",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "GLENN KENNY",
+      "headline": "Review: ‘All Eyez on Me’ Is Uninspired. Tupac Shakur Was Anything But.",
+      "summary_short": "Benny Boom’s film fails the considerable talent of the complex rapper it chronicles and the actor portraying him, Demetrius Shipp Jr.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:31",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/all-eyez-on-me-review.html",
+        "suggested_link_text": "Read the New York Times Review of All Eyez on Me"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16ALLEYEZ/16ALLEYEZ-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Book of Henry",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In ‘The Book of Henry,’ a Little Child Shall, Well, You Know",
+      "summary_short": "Naomi Watts stars in a cliché-stuffed dumb movie about a smart kid, directed by Colin Trevorrow (“Jurassic World”).",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:29",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/the-book-of-henry-review-naomi-watts.html",
+        "suggested_link_text": "Read the New York Times Review of The Book of Henry"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/03/30/movies/video-the-book-of-henry/video-the-book-of-henry-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "F(l)ag Football",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "KEN JAWOROWSKI",
+      "headline": "Review: ‘F(l)ag Football’ Finds Gay Athletes Upending Stereotypes",
+      "summary_short": "The documentary, directed by Seth Greenleaf, follows teams in the National Gay Flag Football League as they prepare for the championship game.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 20:26:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/flag-football-review.html",
+        "suggested_link_text": "Read the New York Times Review of F(l)ag Football"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16flagfoot/16flagfoot-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "47 Meters Down",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "Review: ‘47 Meters Down,’ With Great Whites Circling Above",
+      "summary_short": "Mandy Moore and Claire Holt play sisters looking for adventures in Mexico, but being stuck in a cage on the ocean floor wasn’t what they had in mind.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:29",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/47-meters-down-review.html",
+        "suggested_link_text": "Read the New York Times Review of 47 Meters Down"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16FORTYSEVEN/16FORTYSEVEN-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Hearing Is Believing",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "NEIL GENZLINGER",
+      "headline": "Review: ‘Hearing Is Believing’ Documents a Rare Talent",
+      "summary_short": "The documentary chronicles the musical development of Rachel Flowers, a blind musician and composer, but it would have benefited from more depth and context.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 20:10:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/hearing-is-believing-review.html",
+        "suggested_link_text": "Read the New York Times Review of Hearing Is Believing"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16HEARING/16HEARING-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Journey",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "ANDY WEBSTER",
+      "headline": "Review: Car-Pooling to End Ireland’s Troubles in ‘The Journey’",
+      "summary_short": "Nick Hamm’s drama imagines a fictional drive shared by the Irish republican leader Martin McGuinness and the Unionist Ian Paisley.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-15 20:06:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/the-journey-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Journey"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16JOURNEY/16JOURNEY-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Kill Switch",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "Review: Alternative Energy Strikes Back in ‘Kill Switch’",
+      "summary_short": "Dan Stevens contends with drones, militants and a video-game-style parallel universe in his quest to save humanity in this sci-fi feature.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-15 19:44:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/kill-switch-review.html",
+        "suggested_link_text": "Read the New York Times Review of Kill Switch"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16KILLSWITCH/16KILLSWITCH-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Lost in Paris",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "BEN KENIGSBERG",
+      "headline": "Review: Finding Love (and Slapstick) While ‘Lost in Paris’",
+      "summary_short": "The filmmakers Fiona Gordon and Dominique Abel star in their fourth movie, a tale infused with physical comedy about a woman in search of her aunt.",
+      "publication_date": "2017-06-15",
+      "opening_date": null,
+      "date_updated": "2017-06-15 19:40:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/lost-in-paris-review.html",
+        "suggested_link_text": "Read the New York Times Review of Lost in Paris"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16LOSTPARIS/16LOSTPARIS-mediumThreeByTwo210-v2.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Rough Night",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In ‘Rough Night,’ It’s Women Behaving Badly (Yawn)",
+      "summary_short": "Scarlett Johansson and Kate McKinnon play old friends whose boozy bachelorette weekend goes very, very wrong in a comedy from Lucia Aniello.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:26",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/rough-night-review-scarlett-johansson.html",
+        "suggested_link_text": "Read the New York Times Review of Rough Night"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16roughnight/16roughnight-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Once Upon a Time in Venice",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "NEIL GENZLINGER",
+      "headline": "Review: ‘Once Upon a Time in Venice’ Unleashes a Bland Bruce Willis",
+      "summary_short": "A private detective is desperate to recover his stolen dog in this action-comedy from Mark and Robb Cullen.",
+      "publication_date": "2017-06-15",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:01",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/15/movies/review-once-upon-a-time-in-venice-unleashes-a-bland-bruce-willis.html",
+        "suggested_link_text": "Read the New York Times Review of Once Upon a Time in Venice"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16ONCEUPONVENICE/16ONCEUPONVENICE-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Cars 3",
+      "mpaa_rating": "G",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "Review: In ‘Cars 3,’ Lightning McQueen Faces an Existential Crisis",
+      "summary_short": "Lightning is back and feeling a bit old in this latest breezy feature in the Pixar franchise. It offers life lessons that will resonate with adults as well as with children.",
+      "publication_date": "2017-06-14",
+      "opening_date": "2017-06-16",
+      "date_updated": "2017-06-16 02:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/14/movies/cars-3-review.html",
+        "suggested_link_text": "Read the New York Times Review of Cars 3"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/16/arts/16CARSTHREE/16CARSTHREE-mediumThreeByTwo210-v4.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Moka",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "Review: A Grieving Mother Seeks Her Own Justice in ‘Moka’",
+      "summary_short": "Frédéric Mermoud’s slow-burn revenge thriller and character drama is a first-rate showcase for the actresses Emmanuelle Devos and Nathalie Baye.",
+      "publication_date": "2017-06-13",
+      "opening_date": null,
+      "date_updated": "2017-06-16 02:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/13/movies/moka-review.html",
+        "suggested_link_text": "Read the New York Times Review of Moka"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/14/arts/14MOKA/14MOKA-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Megan Leavey",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "NEIL GENZLINGER",
+      "headline": "Review: In ‘Megan Leavey,’ a Marine, Her Dog and a Bond Forged in War",
+      "summary_short": "Based on a true story, this film, starring Kate Mara, is both harrowing and heartstring-tugging.",
+      "publication_date": "2017-06-08",
+      "opening_date": "2017-06-09",
+      "date_updated": "2017-06-16 02:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/08/movies/megan-leavey-review-kate-mara.html",
+        "suggested_link_text": "Read the New York Times Review of Megan Leavey"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/09/arts/09MEGAN/09MEGAN-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Hero",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "Review: For an Aging Actor, Another Chance to Be ‘The Hero’",
+      "summary_short": "Brett Haley’s low-key feature, about an older actor seeking redemption after being reduced to a cliché, belongs to its star, Sam Elliott.",
+      "publication_date": "2017-06-08",
+      "opening_date": "2017-06-09",
+      "date_updated": "2017-06-16 02:44:22",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/08/movies/the-hero-review-sam-elliott.html",
+        "suggested_link_text": "Read the New York Times Review of The Hero"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/09/arts/09HERO/09HERO-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Dawson City: Frozen Time",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "Review: In ‘Dawson City: Frozen Time,’ Early Movies Lost and Found",
+      "summary_short": "A lot of future moguls got their start in one remote Yukon town. And an amazing amount of film history was left behind.",
+      "publication_date": "2017-06-08",
+      "opening_date": null,
+      "date_updated": "2017-06-16 02:44:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/08/movies/dawson-city-frozen-time-review.html",
+        "suggested_link_text": "Read the New York Times Review of Dawson City: Frozen Time"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/05/26/movies/video-dawson-city-frozen-time/video-dawson-city-frozen-time-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "It Comes at Night",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "A. O. SCOTT",
+      "headline": "Review: Mom, Dad, the Kid and the Dog. What Could Be Scarier?",
+      "summary_short": "“It Comes at Night,” the sophomore feature of Trey Edward Shults, is as spookily self-assured and ambitious as “Krisha.”",
+      "publication_date": "2017-06-08",
+      "opening_date": "2017-06-09",
+      "date_updated": "2017-06-16 02:44:19",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/06/08/movies/it-comes-at-night-review.html",
+        "suggested_link_text": "Read the New York Times Review of It Comes at Night"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/06/08/arts/08ITCOMES/08ITCOMES-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    }
+  ]
+}

@@ -8,38 +8,40 @@ and open the template in the editor.
 
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-        <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
         <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
         <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
         <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.css" rel="stylesheet" type="text/css"/>
         <link href="jquery-mobile-theme-132408-0/themes/Assingement1_jQuery.min.css" rel="stylesheet" type="text/css"/>
-        <script src="JS/loadXMLDoc.js" type="text/javascript"></script>
+        <script src="JS/loadXhr.js" type="text/javascript"></script>
+        <link href="CSS/NYT_logo_display.css" rel="stylesheet" type="text/css"/>
+        <link href="CSS/wordwrap.css" rel="stylesheet" type="text/css"/>
     </head>
 
-    <body onload="loadXMLDoc()">
-        <!-- Start of the home page  -->
-        <!--div data-role="content"-->
-        <div  id="home">
-            <div data-role="header"><h1>This is Workshop 3 </h1></div>
-            <div data-role="content">
-                <div class="content-primary">
-                    <div data-demo-html="true"> 
-
-                        <ul data-role="listview"  data-filter="true" id="myList"  >
-
-                        </ul>
-                    </div>
+    <body onload="loadXMLDocX()">
 
 
-                    <div data-role="footer">
-                        <h1>This is the Workshop 3 footer</h1>
-                    </div>
+        <div id="main">
+            <input type="search" placeholder="search Folder" />
+            <button id="submitButton">Submit </button>
 
-                </div>
+            <div id="anchors">
+
+                <ul  data-role="listview"  data-filter="true" id="myList"  >
+
+                </ul>
             </div>
-        </div>
+            <div id="popups" class="wordwrap">
+                <!-- generate content  -->
+            </div>
+                
+            </div>
+
+            <div data-role="footer" >
+                <img src="Images/NewYorkTimesFilmClub.png" alt="NewYorkTimesFilmClub" width="100" height="80" class="nyt">
+            </div>
+
+
 
 
 

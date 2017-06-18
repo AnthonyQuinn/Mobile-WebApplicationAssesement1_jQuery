@@ -8,8 +8,8 @@ and open the template in the editor.
     Author     : AnthonyQuinn
 */
 
-div.wordwrap{
-    width: 11em; 
+#wordwrap{
+   width: 11em;  
     border: 1px solid #000000;
     word-wrap: break-word;
     

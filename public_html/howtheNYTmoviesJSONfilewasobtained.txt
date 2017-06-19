@@ -1,0 +1,14 @@
+
+// Built by LucyBot. www.lucybot.com
+var url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json";
+url += '?' + $.param({
+  'api-key': "89f2f39d0ef94d3997c32db31831bb8a" /*This API  key was requested from the nytimes.com website and sent to my email address */
+});                                           /*When the API key was inserted a json file was generated and displayed on screen */
+$.ajax({                                             /*The json file was then copied, downloaded and saved in the application directory structure  as nytimesmovies.json  */
+  url: url,
+  method: 'GET',
+}).done(function(result) {
+  console.log(result);
+}).fail(function(err) {
+  throw err;
+});
